@@ -15,4 +15,4 @@ npm start
 4. Code for various segmentation algorithm components can be found in /codes.
 5. Trained Python models can be found here: https://drive.google.com/open?id=1R-J4jjJjcFAXmmnqKKwVHEiLTvh8NSq1
 Segmentation algorithms in the code files can be run using these models.
-4. Documents relevant to the Enzen Hackathon are in a separate folder.
+6. Example segmented images, as well as a sample report can be found in /examples
