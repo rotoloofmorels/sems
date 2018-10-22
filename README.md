@@ -13,4 +13,6 @@ npm start
 
 3. The demo application can be seen here: https://drive.google.com/file/d/1tVAjvCkCN-ihsVQoFRFcnNg8h6sXA33U/view?usp=sharing
 4. Code for various segmentation algorithm components can be found in /codes.
+5. Trained Python models can be found here: https://drive.google.com/open?id=1R-J4jjJjcFAXmmnqKKwVHEiLTvh8NSq1
+Segmentation algorithms in the code files can be run using these models.
 4. Documents relevant to the Enzen Hackathon are in a separate folder.
