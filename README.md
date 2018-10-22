@@ -11,5 +11,6 @@ npm start
 ```
 **Frameworks used:** Node, Babel, ESLint, SASS, jQuery, python-keras, Flask
 
-2. The demo application can be seen here: https://drive.google.com/file/d/1tVAjvCkCN-ihsVQoFRFcnNg8h6sXA33U/view?usp=sharing
-3. Documents relevant to the Enzen Hackathon are in a separate folder.
+3. The demo application can be seen here: https://drive.google.com/file/d/1tVAjvCkCN-ihsVQoFRFcnNg8h6sXA33U/view?usp=sharing
+4. Code for various segmentation algorithm components can be found in /codes.
+4. Documents relevant to the Enzen Hackathon are in a separate folder.
