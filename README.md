@@ -5,7 +5,8 @@
 2. Installation:
 
 ```npm install
-npm run build
+npm run build 
+npm start
 npm start
 ```
 **Frameworks used:** Node, Babel, ESLint, SASS, jQuery, python-keras, Flask
